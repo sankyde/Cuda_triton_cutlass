@@ -93,3 +93,9 @@ int main(){
     return 0;
     
 }
+
+// Output:
+// Kernel Execution Time 1828.012817 ms
+// C[0][0] = 1024.000000
+// C[511][511] = 1024.000000
+// Exit status: 0
